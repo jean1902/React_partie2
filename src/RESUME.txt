@@ -1,0 +1,5 @@
+creation des routes
+creation des routes enfants ou superpose  et l'affichage de leur contenu avec outlet
+gestion des erreur semantique ou de variable 
+gestion erreurs de 404
+routage protégé 
